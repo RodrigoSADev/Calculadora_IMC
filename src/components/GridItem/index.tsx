@@ -2,7 +2,6 @@ import { Level } from "../../helpers/imc";
 import styles from "./GridItem.module.css";
 import upImage from "../../assets/up.png";
 import downImage from "../../assets/down.png";
-import { idText } from "typescript";
 
 type Props = {
   item: Level;
