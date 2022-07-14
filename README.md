@@ -2,7 +2,9 @@
 
 Projeto em React & TypeScript fazendo uma calculadora de IMC.
 
-Projeto desenvolvido durante o curso [B7Web](https://b7web.com.br)
+Desenvolvido durante o curso [B7Web](https://b7web.com.br)
+
+Link para Testar: https://earnest-pony-611e70.netlify.app/
 
 ### Instalação
 
