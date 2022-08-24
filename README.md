@@ -1,20 +1,15 @@
 # Calculadora de IMC
 
-Projeto em React & TypeScript fazendo uma calculadora de IMC.
+Projeto de uma Calculadora de IMC (Índice de Massa Corpórea) desenvolvido por mim durante o curso da [B7Web](https://b7web.com.br).
 
-Desenvolvido durante o curso [B7Web](https://b7web.com.br)
+# Tecnologias
 
-Link para Testar: https://earnest-pony-611e70.netlify.app/
+- React
+- React Hooks
+- TypeScript
+- CSS Modules
 
-### Instalação
-
-`npm install`
-
-### Para rodar
-
-`npm start`
-
-### Projeto em Execução
+### Projeto Completo
 
 ![Calc IMC 01](https://user-images.githubusercontent.com/97991094/166400814-93f0cd6f-5e74-470e-bf64-4580b145f283.gif)
 
